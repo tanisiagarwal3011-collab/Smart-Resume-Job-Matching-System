@@ -1,0 +1,16 @@
+Tanisi Agarwal
+
+Computer Science Engineering Student
+
+Skills:
+Python,Java,C++,SQL
+
+Education:
+Bachelor of Technology in Computer Science Engineering
+
+Experience:
+Software Developer Intern with experience in Python and Flask.
+
+Projects:
+Developed web applications using Python and Flask.
+Worked with SQL databases and Git.

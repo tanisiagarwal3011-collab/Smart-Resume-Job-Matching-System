@@ -1,0 +1,23 @@
+Python
+Java
+C++
+JavaScript
+HTML
+CSS
+SQL
+MySQL
+MongoDB
+Flask
+Django
+React
+Node.js
+Git
+GitHub
+Docker
+Kubernetes
+AWS
+Azure
+Flutter
+Dart
+Machine Learning
+Data Science

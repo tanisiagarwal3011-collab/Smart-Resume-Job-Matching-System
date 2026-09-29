@@ -1,0 +1,12 @@
+Software Developer
+
+We are looking for a Software Developer with experience in Python,
+Flask, SQL, Git and Docker.
+
+Requirements:
+
+Bachelor's degree in Computer Science or related field.
+
+Experience with Python development and web applications.
+
+Knowledge of AWS and Kubernetes is preferred.
